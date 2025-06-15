@@ -13,7 +13,7 @@
   "author": "",
   "license": "ISC",
   "description": "Blockchain Todo List Powered By Ethereum",
-  "devDependencies": {
+  "dependencies": {
     "bootstrap": "^5.3.6",
     "chai": "^5.2.0",
     "chai-as-promised": "^8.0.1",
